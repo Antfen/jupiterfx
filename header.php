@@ -24,7 +24,6 @@
       <li><a href="about.php">ABOUT</a></li>
       <li><a href="services.php">SERVICES</a></li>
       <li><a href="contact.php">CONTACT</a></li>
-      <!-- <li><a href="contact.php"><span>contact</span></a></li> -->
    </ul> 
 
             <div class="logo-holder">
